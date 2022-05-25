@@ -8,10 +8,9 @@ Please check out the following website for the detailed methods and applications
 Frontiers in Bioengineering and Biotechnology Biomaterials, (2022).](https://www.frontiersin.org/articles/10.3389/fbioe.2022.887444/full) 
 
 ## Flowchart of algorithm
-<br> 
 <img src="https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation/blob/main/Figures/Flowchart.jpg" align="middle" width="717">
 <br> 
-<br>
+
 
 ## Main result 
 Comparison of overall AZ61 corrosion in simulation and experiment:
