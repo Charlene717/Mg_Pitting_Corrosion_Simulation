@@ -1,5 +1,5 @@
 # Mg_Pitting_Corrosion_Simulation
-## Code for simulating pit corrosion.  <img src="Figures/PitSim.jpg" align="right" width="120" />
+## Code for simulating pit corrosion.  <img src="Figures/PitSim.png" align="right" width="120" />
 
 ## How to cite?
 Please check out the following website for the detailed methods and applications. If you use the code or algorithm, please cite this article.
