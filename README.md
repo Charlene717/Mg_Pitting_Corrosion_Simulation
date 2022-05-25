@@ -3,6 +3,7 @@
 
 ## How to cite?
 Please check out the following website for the detailed methods and applications. If you use the code or algorithm, please cite this article.
+<br> 
 [Chia-Jung Chang et al., A Computational Pitting Corrosion Model of Magnesium Alloys. 
 Frontiers in Bioengineering and Biotechnology Biomaterials, (2022).](https://www.frontiersin.org/articles/10.3389/fbioe.2022.887444/full) 
 
