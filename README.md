@@ -9,7 +9,7 @@ Frontiers in Bioengineering and Biotechnology Biomaterials, (2022).](https://www
 
 <br> 
 <br> 
-<img src="https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation/blob/main/Figures/Flowchart.tif">
+<img src="https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation/blob/main/Figures/Flowchart.jpg">
 <br> 
 <br>
 
