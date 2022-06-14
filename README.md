@@ -15,3 +15,5 @@ Frontiers in Bioengineering and Biotechnology Biomaterials, (2022).](https://www
 Comparison of overall AZ61 corrosion in simulation and experiment:
 <br> 
 <img src="https://github.com/Charlene717/Mg_Pitting_Corrosion_Simulation/blob/main/Figures/MainResult.jpg" align="middle" width="717">
+<br> 
+
